@@ -58,10 +58,10 @@ widgets:
       label: "<span>\udb80\udf5c</span>"
       menu_list:
       - { title: "Home", path: "~" }
-      - { title: "Downloads", path: "C:\\Users\\Hp\\Downloads"}
-      - { title: "Documents", path: "C:\\Users\\Hp\\Documents"}
-      - { title: "Pictures", path: "C:\\Users\\Hp\\Pictures"}
-      - { title: "Videos", path: "C:\\Users\\Hp\\Videos"}
+      - { title: "Downloads", path: ""}
+      - { title: "Documents", path: ""}
+      - { title: "Pictures", path: ""}
+      - { title: "Videos", path: ""}
       system_menu: true
       power_menu: false
       blur: true
@@ -173,7 +173,7 @@ widgets:
     type: "yasb.wallpapers.WallpapersWidget"
     options:
       label: "<span>\udb83\ude09</span>"
-      image_path: "C:\\Users\\Hp\\Pictures\\Wallpaper"
+      image_path: ""
       change_automatically: false
       update_interval: 86400
       gallery:
@@ -381,4 +381,5 @@ widgets:
         enabled: true
         color: "black"
         radius: 3
+
         offset: [ 1, 1 ]
