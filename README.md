@@ -14,3 +14,16 @@ Things I use:-
 - Mouse Cursor is of "Hornet" from "Hollow Knight Silksong" (ss is linked at last)
 
 All My .config file are dropped enjoy!!
+
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/3c8074ee-3361-469b-8f9f-3fa59864e9c2" />
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f27ce010-ab0f-468c-b71e-c21462a7a2b0" />
+
+<img width="1365" height="760" alt="image" src="https://github.com/user-attachments/assets/f53ef5c5-861a-4727-8d56-9e84c299e479" />
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/2e38bdfe-14ba-4df3-ba7c-521a34a92b7c" />
+
+
+
+
